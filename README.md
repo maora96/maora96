@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/code-javascript-orange)
 ![](https://img.shields.io/badge/code-nodejs-green)
-![](https://img.shields.io/badge/code-reactjs-#ff69b4)
+![](https://img.shields.io/badge/code-reactjs-ff69b4)
 ![](https://img.shields.io/badge/code-postgress-blue)
 
 - 🎓 I study Design @ UNIFACS
