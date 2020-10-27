@@ -5,7 +5,7 @@
 
 ## Technologies
 
-(https://img.shields.io/badge/code-javascript-orange)
+![](https://img.shields.io/badge/code-javascript-orange)
 ![](?style=flat-square)
 
 - 🎓 I study Design @ UNIFACS
