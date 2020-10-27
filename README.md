@@ -4,10 +4,12 @@
 💻 I'm an aspiring fullstack developer from Brazil.
 
 
-![](https://img.shields.io/badge/code-javascript-orange)
+![](https://img.shields.io/badge/code-javascript-brigtgreen)
 ![](https://img.shields.io/badge/code-nodejs-green)
 ![](https://img.shields.io/badge/code-reactjs-ff69b4)
 ![](https://img.shields.io/badge/code-postgress-blue)
+![](https://img.shields.io/badge/code-css3-orange)
+![](https://img.shields.io/badge/code-html5-red)
 
 - 🎓 I study Design @ UNIFACS
 
