@@ -6,7 +6,7 @@
 ## Technologies
 
 
-?style=flat-square
+![](?style=flat-square)
 
 - 🎓 I study Design @ UNIFACS
 
