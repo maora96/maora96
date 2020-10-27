@@ -1,7 +1,12 @@
 
-# Hello, I'm Marina :cat:
+# Hello there, I'm Marina :cat:
 
- - 💻 I'm an aspiring fullstack developer from Brazil
+💻 I'm an aspiring fullstack developer from Brazil.
+
+## Technologies
+
+
+?style=flat-square
 
 - 🎓 I study Design @ UNIFACS
 
