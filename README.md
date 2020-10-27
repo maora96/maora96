@@ -1,8 +1,11 @@
 
 # Hello there, I'm Marina :cat:
 
-💻 I'm an aspiring fullstack developer from Brazil.
+I'm an aspiring fullstack developer from Brazil. I love building things and solving problems :heart_eyes_cat: I come from Design and still have an infatuation with UI design, so pretty but functional & efficient stuff are a must for me :relaxed:
 
+I also spend too much time playing League, (modern) cRPGS/RPGS and visual novels. I love drawing and writing, too :heart_eyes_cat:
+
+I'm currently a student @ [Cubos Academy](https://cubos.academy) for Fullstack Development & at @ https://www.unifacs.br/ for Design.
 
 ![](https://img.shields.io/badge/code-javascript-brigtgreen)
 ![](https://img.shields.io/badge/code-nodejs-green)
@@ -11,10 +14,6 @@
 ![](https://img.shields.io/badge/code-css3-orange)
 ![](https://img.shields.io/badge/code-html5-red)
 
-- 🎓 I study Design @ UNIFACS
+### Let's keep in contact!
 
-- ⏹️ I'm currently a student @ [Cubos Academy](https://cubos.academy)
 
-- ✒️ I love reading, gaming and drawing in my free time.
-
-- 🌱 I’m currently learning JavaScript (Node.js, React.js) and a bit of Python.
