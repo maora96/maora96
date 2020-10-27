@@ -16,7 +16,7 @@ I'm currently a student @ [Cubos Academy](https://cubos.academy) for Fullstack D
 
 ### Let's keep in contact!
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
