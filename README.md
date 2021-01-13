@@ -5,7 +5,7 @@ I'm an aspiring fullstack developer from Brazil. I love building things and solv
 
 I also spend too much time playing League, Runeterra, cRPGS/RPGS and visual novels. I love drawing and writing, too :heart_eyes_cat:
 
-I'm currently a student @ [Cubos Academy](https://cubos.academy) for Fullstack Development & @ [UNIFACS](https://www.unifacs.br/) for Design.
+I'm was a student at @ [Cubos Academy](https://cubos.academy) for Fullstack Development & @ [UNIFACS](https://www.unifacs.br/) for Design.
 
 ![](https://img.shields.io/badge/code-javascript-brigtgreen)
 ![](https://img.shields.io/badge/code-nodejs-green)
