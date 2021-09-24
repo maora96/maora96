@@ -1,7 +1,7 @@
 
 # Hello there, I'm Marina 
 
-I'm an aspiring fullstack developer from Brazil. I love building things and solving problems. I come from Design and still have an infatuation with everything UI/UX, so pretty but functional & efficient are a must for me.
+I'm a fullstack developer from Brazil. I love building things and solving problems. I come from Design and still have an infatuation with everything UI/UX, so pretty but functional & efficient are a must for me.
 
 I also spend too much time playing League, Runeterra, cRPGS/RPGS and visual novels. I love drawing and writing, too.
 
